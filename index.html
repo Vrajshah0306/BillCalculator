@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Bill calculator">
+    <title>Bill Calculator</title>
+    <link rel="icon" href="icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css" type="text/css">
 
+</head>
+<body>
+   <script>src="app.js"</script>
+   <div class="OutterCircle"> 
+   <div class="InnerCircle">
+        <h1>Bill Calculator</h1>
+        <hr class="custom_hr">
+        <h3>1. What was the total? (Enter with decimal. EX: $XX.XX)</h3>
+        <input id="total" type="number">
+
+        <h3>2. How much is the tax?</h3>
+        <input id="tax" type="number">
+        
+        <h3>Enter gratuity, If any. (Enter with decimal. EX: $XX.XX)</h3>
+        <input id="gratuity" type="number">
+        
+        
+        <h3>Enter tip, If any. (Enter with decimal. EX: $XX.XX)</h3>
+        <input id="tip" type="number">
+
+        <h3>Amount of people spliting the bill. (Enter with whole numbers.)</h3>
+        <input id="AmountOfPeople" type="number">
+
+        <br> <br>
+        <button onclick="Calculate()"> Calculate</button>
+    <br> <br>
+    </div>
+</div>
+
+    
+
+
+
+
+</body>
+</html>
