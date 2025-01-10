@@ -1,7 +1,3 @@
-Here's an improved and expanded version of your `README.md` file, incorporating better grammar, additional sections, and a professional tone. It also includes instructions for running the project, descriptions of the functionality, and how to contribute.
-
----
-
 # Bill Calculator
 
 Welcome to **Bill Calculator**, my first project! This application helps users split a bill by calculating the cost per person, considering tax, gratuity, and tip. If you have any feedback or suggestions to improve this project, please feel free to reach out to me at [vrajrshah@yahoo.com](mailto:vrajrshah@yahoo.com). Constructive criticism is highly appreciated.
