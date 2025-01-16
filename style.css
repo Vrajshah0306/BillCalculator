@@ -16,6 +16,7 @@ body {
     transform: translate(-50%, -50%);
     width: 700px;
     height: auto;
+    border-radius: 10px;
 }
 .custom_hr {
     border: none;
@@ -31,6 +32,7 @@ body {
     height: auto;
     width: 150px;
     cursor: pointer;
+    border-radius: 12px;
 }
 ::placeholder{
     color: black;
